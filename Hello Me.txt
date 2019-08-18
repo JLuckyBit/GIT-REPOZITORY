@@ -2,5 +2,5 @@
 print("Hi Serg!18.08.19");
 print("come to me Alice!"):
 =======
-print("Hi Serg!");
+print("Hi Serg!5");
 >>>>>>> master
